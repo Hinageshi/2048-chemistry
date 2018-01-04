@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">2048</string>
+    <string name="app_name_subtitle">Learn Chemistry</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="credits">This app has been developed by Marie Bouin, IT Student at the Univerity Institute of Technology of Laval, France, for an Android school project.\n</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="linkedinLink">linkedin.com/in/marie-bouin-5b30a7150\n</string>
+    <string name="github">GitHub</string>
+    <string name="githubLink">https://github.com/Hinageshi</string>
+    <string name="newGame">NEW GAME</string>
+    <string name="howToPlay">HOW TO PLAY</string>
+    <string name="collection">COLLECTION</string>
+    <string name="howToPlayTitle">How to play 2048 ?</string>
+    <string name="howToPlayInstructions">Swipe to move all tiles !\n When two tiles with the same value touch, they merge into one !\n It's over when the grid fills up.\n Try to discover alls elements !</string>
+    <string name="score">SCORE</string>
+    <string name="best">BEST</string>
+    <string name="menu">MENU</string>
+    <string name="resetHighscore">RESET</string>
+    <string name="creditsButton">CREDITS</string>
+    <string name="collectionInstructions">Click on an element to learn more about it.</string>
+    <string name="HDescription">Hydrogen belongs to the nonmetal\'s family. It is the most abundant chemical substance in the Universe. It is the lightest of all elements and the smallest and simplest of all atoms.</string>
+    <string name="HeDescription">Helium belongs to the noble gases\' family. It is a colorless, odorless, tasteless and non-toxic gas. Helium is the second-most abundant element in the Universe (after hydrogen).</string>
+    <string name="defValuesHashMap">2/true/4/false/8/false/16/false/32/false/64/false/128/false/256/false/512/false/1024/false/2048/false/4096/false/8192/false/16384/false/32768/false/65536/false/131072/false</string>
+</resources>

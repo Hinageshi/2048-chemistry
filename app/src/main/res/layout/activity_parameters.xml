@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hina.a2048.ParametersActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:padding="@dimen/activity_horizontal_margin">
+
+        <Button
+            android:id="@+id/buttonResetHighscore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/resetHighscore"
+            android:textColor="@color/colorWhite"
+            android:backgroundTint="@color/colorMain" />
+
+        <Button
+            android:id="@+id/buttonCredits"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/creditsButton"
+            android:textColor="@color/colorWhite"
+            android:backgroundTint="@color/colorMain"/>
+    </LinearLayout>
+
+</RelativeLayout>
